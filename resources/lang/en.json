@@ -1,0 +1,22 @@
+{
+    "Create":"Create",
+    "Modify":"modify profile",
+    "Add":"Add",
+    "Edit":"Edit",
+    "Show":"Show",
+    "Restore":"Restore",
+    "Delete":"Delete",
+    "Archive":"Archive",
+    
+    "Created By":"Created by",
+    "Number Of Posts":"number of posts",
+    "Most Interactive Users":"Most Interactive Users",
+    "Comment":"Comment",
+    "Posts Published By The Same Seller":"Posts Published By The Same Seller",
+
+    "Title":"Title",
+    "Content":"Content",
+
+    "Next":"Next",
+    "Previous":"Previous"
+}

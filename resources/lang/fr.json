@@ -1,0 +1,33 @@
+{
+    "Login":"Connecter",
+    "Register":"Inscrire",
+    "Logout":"Déconnecter",
+    "Modify":"Modifier le profile",
+    "E-Mail Address":"Adresse email",
+    "Password":"Mot de passe",
+    "Remember Me":"Rappeller de moi",
+    "Forgot Your Password?":"Mot de passe oublier",
+    "Name":"Nom",
+    "Confirm Password":"Confirmer le mot de passe",
+    "Dashboard":"tableau de bord",
+    "You are logged in!":"Vous êtes authentifié!",
+    "Create":"Creé",
+    "Add":"Ajouter",
+    "Edit":"Modifier",
+    "Show":"Afficher",
+    "Restore":"Restorer",
+    "Delete":"Supprimer",
+    "Archive":"Archiver",
+
+    "Created By":"creer par",
+    "Number Of Posts":"Nombre de posts",
+    "Most Interactive Users":"Les utilisateurs les plus interactifs",
+    "Comment":"commentaire",
+    "Posts Published By The Same Seller":"Articles publiés par le même vendeur",
+
+    "Title":"titre",
+    "Content":"Contenu",
+
+    "Next":"Suivant",
+    "Previous":"Precedent"
+}
